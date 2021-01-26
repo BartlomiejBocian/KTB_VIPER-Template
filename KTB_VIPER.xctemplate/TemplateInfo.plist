@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Kind</key>
+	<string>Xcode.IDEFoundation.TextSubstitutionFileTemplateKind</string>
+	<key>DefaultCompletionName</key>
+	<string>Module</string>
+	<key>Platforms</key>
+	<array>
+		<string>com.apple.platform.iphoneos</string>
+	</array>
+	<key>Concrete</key>
+	<true/>
+	<key>Description</key>
+	<string>This template provides a starting point to implement the VIPER pattern using Rx in BizNext iOS App.</string>
+	<key>Options</key>
+	<array>
+		<dict>
+			<key>Identifier</key>
+			<string>MODULENAME</string>
+			<key>Required</key>
+			<true/>
+			<key>Name</key>
+			<string>New module name:</string>
+			<key>Description</key>
+			<string>Module name</string>
+			<key>Type</key>
+			<string>text</string>
+			<key>Default</key>
+			<string>Module</string>
+		</dict>
+	</array>
+</dict>
+</plist>
